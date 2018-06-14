@@ -1,0 +1,7 @@
+npm init >> to create package mangment for your project
+
+npm install lite-server --save-dev >> to install lite server 
+
+inside package file edit script 
+"lite":"lite-server"
+"start":"npm run lite"
